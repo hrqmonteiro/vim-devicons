@@ -315,7 +315,10 @@ function! s:setDictionaries()
         \ 'gemfile'                          : '',
         \ 'makefile'                         : '',
         \ 'cmakelists.txt'                   : '',
-        \ 'README.md'                        : '',
+        \ 'readme.md'                        : '',
+        \ 'changelog.md'                     : '',
+        \ '.gitignore'                       : '',
+        \ '.gitignore'                       : '',
         \ 'agora'                            : '',
         \ 'desktop'                          : '',
         \ 'downloads'                        : '',  
@@ -323,6 +326,15 @@ function! s:setDictionaries()
         \ 'music'                            : '',
         \ 'pictures'                         : '',
         \ 'videos'                           : '',
+        \ '.bash_history'                    : '',
+        \ '.bash_logout'                     : '',
+        \ '.bash_profile'                    : '',
+        \ '.bashrc'                          : '',
+        \ '.inputrc'                         : '',
+        \ '.xinitrc'                         : '',
+        \ '.gtkrc-2.0'                       : '',
+        \ '.xauthority'                      : '異',
+        \ '.xresources'                      : '異',
         \}
 
   let s:file_node_pattern_matches = {
