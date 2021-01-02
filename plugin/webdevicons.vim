@@ -317,7 +317,7 @@ function! s:setDictionaries()
         \ 'cmakelists.txt'                   : '',
         \ 'agora'                            : '',
         \ 'desktop'                          : '',
-        \ 'downloads'                        : '',
+        \ 'downloads'                        : '',  
         \ 'github'                           : '',
         \ 'music'                            : '',
         \ 'pictures'                         : '',
