@@ -330,8 +330,8 @@ function! s:setDictionaries()
         \ '.inputrc'                         : '',
         \ '.xinitrc'                         : '',
         \ '.gtkrc-2.0'                       : '',
-        \ '.xauthority'                      : '異',
-        \ '.xresources'                      : '異',
+        \ '.xauthority'                      : '',
+        \ '.xresources'                      : '',
         \}
 
   let s:file_node_pattern_matches = {
