@@ -306,7 +306,6 @@ function! s:setDictionaries()
         \ 'favicon.ico'                      : '',
         \ 'license'                          : '',
         \ 'node_modules'                     : '',
-        \ 'agora'                            : '',
         \ 'react.jsx'                        : '',
         \ 'procfile'                         : '',
         \ 'dockerfile'                       : '',
@@ -315,7 +314,14 @@ function! s:setDictionaries()
         \ 'config.ru'                        : '',
         \ 'gemfile'                          : '',
         \ 'makefile'                         : '',
-        \ 'cmakelists.txt'                   : ''
+        \ 'cmakelists.txt'                   : '',
+        \ 'agora'                            : '',
+        \ 'desktop'                          : '﬑',
+        \ 'downloads'                        : '',
+        \ 'gitlab'                           : '',
+        \ 'music'                            : '',
+        \ 'pictures'                         : '',
+        \ 'videos'                           : '',
         \}
 
   let s:file_node_pattern_matches = {
