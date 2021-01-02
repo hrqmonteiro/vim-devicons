@@ -315,6 +315,7 @@ function! s:setDictionaries()
         \ 'gemfile'                          : '',
         \ 'makefile'                         : '',
         \ 'cmakelists.txt'                   : '',
+        \ 'readme.md'                        : ''.
         \ 'agora'                            : '',
         \ 'desktop'                          : '',
         \ 'downloads'                        : '',  
