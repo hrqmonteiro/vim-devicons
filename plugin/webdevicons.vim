@@ -306,7 +306,7 @@ function! s:setDictionaries()
         \ 'favicon.ico'                      : '',
         \ 'license'                          : '',
         \ 'node_modules'                     : '',
-        \ 'Agora'                            : '',
+        \ 'agora'                            : '',
         \ 'react.jsx'                        : '',
         \ 'procfile'                         : '',
         \ 'dockerfile'                       : '',
