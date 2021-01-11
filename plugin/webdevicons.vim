@@ -82,9 +82,9 @@ call s:set('g:WebDevIconsTabAirLineAfterGlyphPadding', '')
 
 call s:set('g:WebDevIconsUnicodeDecorateFileNodesDefaultSymbol', '')
 call s:set('g:WebDevIconsUnicodeByteOrderMarkerDefaultSymbol', '')
-call s:set('g:WebDevIconsUnicodeDecorateFolderNodesDefaultSymbol', g:DevIconsEnableFoldersOpenClose ? '' : '')
+call s:set('g:WebDevIconsUnicodeDecorateFolderNodesDefaultSymbol', g:DevIconsEnableFoldersOpenClose ? '' : '')
 call s:set('g:WebDevIconsUnicodeDecorateFolderNodesSymlinkSymbol',  '')
-call s:set('g:DevIconsDefaultFolderOpenSymbol', '')
+call s:set('g:DevIconsDefaultFolderOpenSymbol', '')
 
 " functions {{{1
 "========================================================================
