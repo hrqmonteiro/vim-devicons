@@ -277,7 +277,9 @@ function! s:setDictionaries()
         \ 'xcplayground' : '',
         \ 'tex'      : 'ﭨ',
         \ 'r'        : 'ﳒ',
-        \ 'rproj'    : '鉶'
+        \ 'rproj'    : '鉶',
+        \ 'kt'       : '',
+        \ 'cr'       : '',
         \}
 
   let s:file_node_exact_matches = {
@@ -291,6 +293,7 @@ function! s:setDictionaries()
         \ 'gulpfile.ls'                      : '',
         \ 'mix.lock'                         : '',
         \ 'dropbox'                          : '',
+        \ '.browserslistrc'                  : '',
         \ '.ds_store'                        : '',
         \ '.gitconfig'                       : '',
         \ '.gitignore'                       : '',
@@ -332,6 +335,8 @@ function! s:setDictionaries()
         \ '.gtkrc-2.0'                       : '',
         \ '.xauthority'                      : '',
         \ '.xresources'                      : '',
+        \ '.ruby-version'                    : '',
+        \ 'babel.config.js'                  : '',
         \}
 
   let s:file_node_pattern_matches = {
