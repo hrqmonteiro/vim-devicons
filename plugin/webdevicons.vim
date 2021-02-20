@@ -335,7 +335,7 @@ function! s:setDictionaries()
         \ '.gtkrc-2.0'                       : '',
         \ '.xauthority'                      : '',
         \ '.xresources'                      : '',
-        \ '.ruby-version'                    : '',
+        \ '.ruby-version'                    : '',
         \ 'babel.config.js'                  : '',
         \}
 
